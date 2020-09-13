@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>New on sky_test</title>
+    <link>https://skychiou.github.io/tags/new/</link>
+    <description>Recent content in New on sky_test</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Tue, 29 Oct 2019 10:07:47 +0600</lastBuildDate>
+    
+	<atom:link href="https://skychiou.github.io/tags/new/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Python test</title>
+      <link>https://skychiou.github.io/blog/python-1/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://skychiou.github.io/blog/python-1/</guid>
+      <description>View this post on Instagram        #Talitha #Getty #yacht in #fjærland #fjærlandsfjorden #sognefjorden #mundal #norway #landscape #panorama #travel #instagoodmyphoto #justgoshoot #peoplescreatives #visualsoflife #photography #photoshoot #photodaily #photogram #instagood #picoftheday #fjærland #photooftheday #pentax #nrksf #sognavis</description>
+    </item>
+    
+  </channel>
+</rss>

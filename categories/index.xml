@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on sky_test</title>
+    <title>Categories on skychiou的家</title>
     <link>https://skychiou.github.io/categories/</link>
-    <description>Recent content in Categories on sky_test</description>
+    <description>Recent content in Categories on skychiou的家</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <lastBuildDate>Tue, 29 Oct 2019 10:07:47 +0600</lastBuildDate>
@@ -21,11 +21,11 @@
     </item>
     
     <item>
-      <title>Happly Life</title>
-      <link>https://skychiou.github.io/categories/happly-life/</link>
+      <title>My Life</title>
+      <link>https://skychiou.github.io/categories/my-life/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
       
-      <guid>https://skychiou.github.io/categories/happly-life/</guid>
+      <guid>https://skychiou.github.io/categories/my-life/</guid>
       <description></description>
     </item>
     

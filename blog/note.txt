@@ -1,0 +1,10 @@
+
+![image](../../images/post/post-1.jpg) 
+
+{{< youtube YrB6zsbeEr8 >}} 
+
+{{< instagram BWNjjyYFxVx >}}
+
+{{< tweet 877500564405444608 >}}
+
+{{ template "_internal/disqus.html" . }}

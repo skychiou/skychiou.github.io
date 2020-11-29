@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>blog on skychiou的家</title>
+    <title>Blogs on skychiou的家</title>
     <link>https://skychiou.github.io/blog/</link>
-    <description>Recent content in blog on skychiou的家</description>
+    <description>Recent content in Blogs on skychiou的家</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Tue, 29 Oct 2019 13:49:23 +0600</lastBuildDate><atom:link href="https://skychiou.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 28 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://skychiou.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2020金融展</title>
       <link>https://skychiou.github.io/blog/life-1/</link>

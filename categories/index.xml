@@ -6,35 +6,13 @@
     <description>Recent content in Categories on skychiou的家</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Tue, 29 Oct 2019 10:07:47 +0600</lastBuildDate>
-    
-	<atom:link href="https://skychiou.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sat, 28 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://skychiou.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>arduino</title>
-      <link>https://skychiou.github.io/categories/arduino/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      <title>Life</title>
+      <link>https://skychiou.github.io/categories/life/</link>
+      <pubDate>Sat, 28 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://skychiou.github.io/categories/arduino/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>My Life</title>
-      <link>https://skychiou.github.io/categories/my-life/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://skychiou.github.io/categories/my-life/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Python</title>
-      <link>https://skychiou.github.io/categories/python/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://skychiou.github.io/categories/python/</guid>
+      <guid>https://skychiou.github.io/categories/life/</guid>
       <description></description>
     </item>
     
